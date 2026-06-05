@@ -1,0 +1,391 @@
+{
+  "companies": {
+    "AMD": {
+      "cik": "0000002488",
+      "filings": [
+        {
+          "accession": "0000002488-26-000076",
+          "cik": "0000002488",
+          "company_name": "Advanced Micro Devices, Inc.",
+          "filed": "2026-05-06",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-26-000076.htm",
+          "primary_document": "amd-20260328.htm",
+          "report_date": "2026-03-28",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/amd-20260328.htm",
+          "ticker": "AMD"
+        },
+        {
+          "accession": "0000002488-26-000018",
+          "cik": "0000002488",
+          "company_name": "Advanced Micro Devices, Inc.",
+          "filed": "2026-02-04",
+          "form": "10-K",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-26-000018.htm",
+          "primary_document": "amd-20251227.htm",
+          "report_date": "2025-12-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+          "ticker": "AMD"
+        },
+        {
+          "accession": "0000002488-25-000166",
+          "cik": "0000002488",
+          "company_name": "Advanced Micro Devices, Inc.",
+          "filed": "2025-11-05",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000166.htm",
+          "primary_document": "amd-20250927.htm",
+          "report_date": "2025-09-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/amd-20250927.htm",
+          "ticker": "AMD"
+        },
+        {
+          "accession": "0000002488-25-000108",
+          "cik": "0000002488",
+          "company_name": "Advanced Micro Devices, Inc.",
+          "filed": "2025-08-06",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000108.htm",
+          "primary_document": "amd-20250628.htm",
+          "report_date": "2025-06-28",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/amd-20250628.htm",
+          "ticker": "AMD"
+        },
+        {
+          "accession": "0000002488-25-000047",
+          "cik": "0000002488",
+          "company_name": "Advanced Micro Devices, Inc.",
+          "filed": "2025-05-07",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000047.htm",
+          "primary_document": "amd-20250329.htm",
+          "report_date": "2025-03-29",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/amd-20250329.htm",
+          "ticker": "AMD"
+        }
+      ],
+      "name": "Advanced Micro Devices, Inc."
+    },
+    "INTC": {
+      "cik": "0000050863",
+      "filings": [
+        {
+          "accession": "0000050863-26-000079",
+          "cik": "0000050863",
+          "company_name": "Intel Corporation",
+          "filed": "2026-04-24",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-26-000079.htm",
+          "primary_document": "intc-20260328.htm",
+          "report_date": "2026-03-28",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000079/intc-20260328.htm",
+          "ticker": "INTC"
+        },
+        {
+          "accession": "0000050863-26-000011",
+          "cik": "0000050863",
+          "company_name": "Intel Corporation",
+          "filed": "2026-01-23",
+          "form": "10-K",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-26-000011.htm",
+          "primary_document": "intc-20251227.htm",
+          "report_date": "2025-12-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+          "ticker": "INTC"
+        },
+        {
+          "accession": "0000050863-25-000179",
+          "cik": "0000050863",
+          "company_name": "Intel Corporation",
+          "filed": "2025-11-06",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000179.htm",
+          "primary_document": "intc-20250927.htm",
+          "report_date": "2025-09-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+          "ticker": "INTC"
+        },
+        {
+          "accession": "0000050863-25-000109",
+          "cik": "0000050863",
+          "company_name": "Intel Corporation",
+          "filed": "2025-07-24",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000109.htm",
+          "primary_document": "intc-20250628.htm",
+          "report_date": "2025-06-28",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628.htm",
+          "ticker": "INTC"
+        },
+        {
+          "accession": "0000050863-25-000074",
+          "cik": "0000050863",
+          "company_name": "Intel Corporation",
+          "filed": "2025-04-25",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000074.htm",
+          "primary_document": "intc-20250329.htm",
+          "report_date": "2025-03-29",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm",
+          "ticker": "INTC"
+        }
+      ],
+      "name": "Intel Corporation"
+    },
+    "NVDA": {
+      "cik": "0001045810",
+      "filings": [
+        {
+          "accession": "0001045810-26-000052",
+          "cik": "0001045810",
+          "company_name": "NVIDIA Corporation",
+          "filed": "2026-05-20",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-26-000052.htm",
+          "primary_document": "nvda-20260426.htm",
+          "report_date": "2026-04-26",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+          "ticker": "NVDA"
+        },
+        {
+          "accession": "0001045810-26-000021",
+          "cik": "0001045810",
+          "company_name": "NVIDIA Corporation",
+          "filed": "2026-02-25",
+          "form": "10-K",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-26-000021.htm",
+          "primary_document": "nvda-20260125.htm",
+          "report_date": "2026-01-25",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+          "ticker": "NVDA"
+        },
+        {
+          "accession": "0001045810-25-000230",
+          "cik": "0001045810",
+          "company_name": "NVIDIA Corporation",
+          "filed": "2025-11-19",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000230.htm",
+          "primary_document": "nvda-20251026.htm",
+          "report_date": "2025-10-26",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+          "ticker": "NVDA"
+        },
+        {
+          "accession": "0001045810-25-000209",
+          "cik": "0001045810",
+          "company_name": "NVIDIA Corporation",
+          "filed": "2025-08-27",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000209.htm",
+          "primary_document": "nvda-20250727.htm",
+          "report_date": "2025-07-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm",
+          "ticker": "NVDA"
+        },
+        {
+          "accession": "0001045810-25-000116",
+          "cik": "0001045810",
+          "company_name": "NVIDIA Corporation",
+          "filed": "2025-05-28",
+          "form": "10-Q",
+          "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000116.htm",
+          "primary_document": "nvda-20250427.htm",
+          "report_date": "2025-04-27",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+          "ticker": "NVDA"
+        }
+      ],
+      "name": "NVIDIA Corporation"
+    }
+  },
+  "filing_count": 15,
+  "filings": [
+    {
+      "accession": "0001045810-26-000052",
+      "cik": "0001045810",
+      "company_name": "NVIDIA Corporation",
+      "filed": "2026-05-20",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-26-000052.htm",
+      "primary_document": "nvda-20260426.htm",
+      "report_date": "2026-04-26",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+      "ticker": "NVDA"
+    },
+    {
+      "accession": "0001045810-26-000021",
+      "cik": "0001045810",
+      "company_name": "NVIDIA Corporation",
+      "filed": "2026-02-25",
+      "form": "10-K",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-26-000021.htm",
+      "primary_document": "nvda-20260125.htm",
+      "report_date": "2026-01-25",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "ticker": "NVDA"
+    },
+    {
+      "accession": "0001045810-25-000230",
+      "cik": "0001045810",
+      "company_name": "NVIDIA Corporation",
+      "filed": "2025-11-19",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000230.htm",
+      "primary_document": "nvda-20251026.htm",
+      "report_date": "2025-10-26",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "ticker": "NVDA"
+    },
+    {
+      "accession": "0001045810-25-000209",
+      "cik": "0001045810",
+      "company_name": "NVIDIA Corporation",
+      "filed": "2025-08-27",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000209.htm",
+      "primary_document": "nvda-20250727.htm",
+      "report_date": "2025-07-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm",
+      "ticker": "NVDA"
+    },
+    {
+      "accession": "0001045810-25-000116",
+      "cik": "0001045810",
+      "company_name": "NVIDIA Corporation",
+      "filed": "2025-05-28",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/NVDA/0001045810-25-000116.htm",
+      "primary_document": "nvda-20250427.htm",
+      "report_date": "2025-04-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+      "ticker": "NVDA"
+    },
+    {
+      "accession": "0000002488-26-000076",
+      "cik": "0000002488",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "filed": "2026-05-06",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-26-000076.htm",
+      "primary_document": "amd-20260328.htm",
+      "report_date": "2026-03-28",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/amd-20260328.htm",
+      "ticker": "AMD"
+    },
+    {
+      "accession": "0000002488-26-000018",
+      "cik": "0000002488",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "filed": "2026-02-04",
+      "form": "10-K",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-26-000018.htm",
+      "primary_document": "amd-20251227.htm",
+      "report_date": "2025-12-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+      "ticker": "AMD"
+    },
+    {
+      "accession": "0000002488-25-000166",
+      "cik": "0000002488",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "filed": "2025-11-05",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000166.htm",
+      "primary_document": "amd-20250927.htm",
+      "report_date": "2025-09-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/amd-20250927.htm",
+      "ticker": "AMD"
+    },
+    {
+      "accession": "0000002488-25-000108",
+      "cik": "0000002488",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "filed": "2025-08-06",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000108.htm",
+      "primary_document": "amd-20250628.htm",
+      "report_date": "2025-06-28",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/amd-20250628.htm",
+      "ticker": "AMD"
+    },
+    {
+      "accession": "0000002488-25-000047",
+      "cik": "0000002488",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "filed": "2025-05-07",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/AMD/0000002488-25-000047.htm",
+      "primary_document": "amd-20250329.htm",
+      "report_date": "2025-03-29",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/amd-20250329.htm",
+      "ticker": "AMD"
+    },
+    {
+      "accession": "0000050863-26-000079",
+      "cik": "0000050863",
+      "company_name": "Intel Corporation",
+      "filed": "2026-04-24",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-26-000079.htm",
+      "primary_document": "intc-20260328.htm",
+      "report_date": "2026-03-28",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000079/intc-20260328.htm",
+      "ticker": "INTC"
+    },
+    {
+      "accession": "0000050863-26-000011",
+      "cik": "0000050863",
+      "company_name": "Intel Corporation",
+      "filed": "2026-01-23",
+      "form": "10-K",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-26-000011.htm",
+      "primary_document": "intc-20251227.htm",
+      "report_date": "2025-12-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "ticker": "INTC"
+    },
+    {
+      "accession": "0000050863-25-000179",
+      "cik": "0000050863",
+      "company_name": "Intel Corporation",
+      "filed": "2025-11-06",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000179.htm",
+      "primary_document": "intc-20250927.htm",
+      "report_date": "2025-09-27",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+      "ticker": "INTC"
+    },
+    {
+      "accession": "0000050863-25-000109",
+      "cik": "0000050863",
+      "company_name": "Intel Corporation",
+      "filed": "2025-07-24",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000109.htm",
+      "primary_document": "intc-20250628.htm",
+      "report_date": "2025-06-28",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628.htm",
+      "ticker": "INTC"
+    },
+    {
+      "accession": "0000050863-25-000074",
+      "cik": "0000050863",
+      "company_name": "Intel Corporation",
+      "filed": "2025-04-25",
+      "form": "10-Q",
+      "local_path": "/Users/lavanya/Downloads/TAKEHOME/data/sec/filings/INTC/0000050863-25-000074.htm",
+      "primary_document": "intc-20250329.htm",
+      "report_date": "2025-03-29",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm",
+      "ticker": "INTC"
+    }
+  ],
+  "forms": [
+    "10-K",
+    "10-Q"
+  ],
+  "schema_version": 1,
+  "selection": "five most-recent non-amended 10-K/10-Q filings per company"
+}

@@ -1,0 +1,25 @@
+# Runtime
+streamlit>=1.35,<2
+python-dotenv>=1.0,<2
+pandas>=2.0,<4
+numpy>=1.26,<3
+plotly>=5.22,<7
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+lxml>=5.0,<7
+html2text>=2024.2.26
+tenacity>=8.3,<10
+
+# RAG and orchestration
+chromadb>=0.5,<2
+sentence-transformers>=3.0,<6
+transformers>=4.41,<6
+
+# Parsing and evaluation
+pdfplumber>=0.11,<1
+PyPDF2>=3.0,<4
+rouge-score>=0.1,<1
+nltk>=3.8,<4
+
+# Development and verification
+pytest>=8.0,<9
